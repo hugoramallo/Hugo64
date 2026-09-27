@@ -1,0 +1,8 @@
+# local tool settings (not part of the game)
+.claude/
+
+# packaged builds (regenerated from index.html + js/)
+dist/
+*.zip
+
+.DS_Store
